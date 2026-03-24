@@ -1,10 +1,10 @@
 ### Hi there 👋, HugsGaming
-#### I am a Student Software Developer
+#### I am a Full Stack Software Developer
 ![I am a Student Software Developer](https://share.creavite.co/NdwugR67BXuUVL48.gif)
 
-I am Mark Joven Reyes or HugsGaming. A student software developer in the Philippines. Free Hugs <3. 
+I am Mark Joven Reyes or HugsGaming. A software developer in the Philippines. Free Hugs <3. 
 
-Skills: React / React Native / Node
+Skills: React / React Native / Node / Spring Boot / Java
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HugsGaming)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark-joven-reyes-9488481b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/therealhugsgaming/)  
